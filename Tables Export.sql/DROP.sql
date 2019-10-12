@@ -1,0 +1,9 @@
+DROP TABLE "TAMOA"."ART_MEDIUM" cascade constraints;
+DROP TABLE "TAMOA"."ARTIST" cascade constraints;
+DROP TABLE "TAMOA"."ARTWORK" cascade constraints;
+DROP TABLE "TAMOA"."BANK" cascade constraints;
+DROP TABLE "TAMOA"."CITY" cascade constraints;
+DROP TABLE "TAMOA"."COLLECTION" cascade constraints;
+DROP TABLE "TAMOA"."KLIENT" cascade constraints;
+DROP TABLE "TAMOA"."SALE_TRANSACTION" cascade constraints;
+DROP TABLE "TAMOA"."SALE_TRANSACTION_DETAIL" cascade constraints;
